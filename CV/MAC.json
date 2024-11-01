@@ -1,0 +1,444 @@
+{
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.5/schema/schema.json",
+  "settings": {
+    "language": "EN",
+    "MACVersion": "0.5"
+  },
+  "aboutMe": {
+    "profile": {
+      "name": "Albert",
+      "surnames": "Oliva",
+      "title": "Senior Ruby on Rails Backend Developer",
+      "description": "I have been developing with PHP, Python and Ruby for many years, now I want to focus my career on Ruby on Rails Backend development.",
+      "location": {
+        "notes": "Autocompleted using Google Maps API (id: ChIJ0QDPDZU51UUR7pG81sTX-F4)",
+        "country": "Finlandia",
+        "municipality": "Helsinki-Uusimaa"
+      }
+    },
+    "relevantLinks": [
+      {
+        "type": "linkedin",
+        "URL": "https://www.linkedin.com/in/albertoliva/"
+      },
+      {
+        "type": "github",
+        "URL": "https://github.com/aiw3ndil"
+      }
+    ]
+  },
+  "experience": {
+    "jobs": [
+      {
+        "organization": {
+          "name": "Astara Store"
+        },
+        "roles": [
+          {
+            "name": "Senior Backend Ruby on Rails",
+            "startDate": "2022-09-01",
+            "finishDate": "2024-03-31",
+            "challenges": [
+              {
+                "description": "My tasks involves creating new features, fixing bugs and enhance current applications. We work with Ruby on Rails 6 and 7 using GitHub pull requests and Monday for task management."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Bendita Llave"
+        },
+        "roles": [
+          {
+            "name": "Ruby on Rails Developer",
+            "startDate": "2021-03-01",
+            "finishDate": "2022-06-30",
+            "challenges": [
+              {
+                "description": "I worked on this company enhancing an application built on Ruby on Rails 6 with a workflow on Heroku. I did work with Stripe and Veriff api’s and improved the arquitecture using Docker."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Enkilabs"
+        },
+        "roles": [
+          {
+            "name": "Ruby on Rails Developer",
+            "startDate": "2020-09-01",
+            "challenges": [
+              {
+                "description": "I created my online brand Enkilabs to create small projects for bussiness using Ruby on Rails. I developed www.jombo.es, and other small projects using Jekyll."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "ADLPerformance"
+        },
+        "roles": [
+          {
+            "name": "Ruby on Rails Developer",
+            "startDate": "2020-01-01",
+            "finishDate": "2020-09-30",
+            "challenges": [
+              {
+                "description": "I developed new features for some applications working with Rails 5 and 6 and bug fixes. We worked with BitBucket pull requests and Jira."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Collaborative Perks"
+        },
+        "roles": [
+          {
+            "name": "PHP Developer",
+            "startDate": "2017-11-01",
+            "finishDate": "2019-09-30",
+            "challenges": [
+              {
+                "description": "I developed new features for some applications working with CakePHP and an API with Flask (Python Micro Framework). I did a lot of DevOps using Amazon Web Services and Azure, mostly with Fabric (Python)."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Vivir en las Nubes SRL"
+        },
+        "roles": [
+          {
+            "name": "PHP Developer",
+            "startDate": "2016-10-01",
+            "finishDate": "2017-09-30",
+            "challenges": [
+              {
+                "description": "I worked over an existing application made with CodeIgniter mostly implementing new features and bug fixing."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Plexus Tech"
+        },
+        "roles": [
+          {
+            "name": "PHP Developer",
+            "startDate": "2015-07-01",
+            "finishDate": "2016-02-28",
+            "challenges": [
+              {
+                "description": "I managed to integrate two applications running with PHP and the CMS Drupal 7."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Zeus Creative"
+        },
+        "roles": [
+          {
+            "name": "PHP Developer",
+            "startDate": "2013-02-01",
+            "finishDate": "2013-04-30",
+            "challenges": [
+              {
+                "description": "Frontend development for a WebGL portal to buy and show 3D models ready for impression. Also started the project in parallell with Ruby on Rails to choose the best aproach."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Freelance (Self-employed)"
+        },
+        "roles": [
+          {
+            "name": "Full Stack Developer",
+            "startDate": "2011-03-01",
+            "finishDate": "2015-05-31",
+            "challenges": [
+              {
+                "description": "During this time I did a lot of projects as a freelancer. I had the opportunity to choose the best technology and arquitecture for each project. Self organizating and meeting delivery dates. I really enjoyed creating the projects from scratch until completion."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Zemsania"
+        },
+        "roles": [
+          {
+            "name": "PHP Developer",
+            "startDate": "2010-03-01",
+            "finishDate": "2010-05-31",
+            "challenges": [
+              {
+                "description": "Development of a PYMEs portal based on Spain with Drupal 6 and jQuery.\nLink: www.empresasenred.es"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Telefonica Moviles"
+        },
+        "roles": [
+          {
+            "name": "System Administrator and PHP Developer",
+            "startDate": "2007-06-01",
+            "finishDate": "2009-03-31",
+            "challenges": [
+              {
+                "description": "Development of an open source community and an SDK for Telefonica Moviles architecture to bring services as an API for the open source community. Administrated the architecture based on Debian servers with Apache , PHP and MySQL."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Indra Systems"
+        },
+        "roles": [
+          {
+            "name": "Project Controller",
+            "startDate": "2007-03-01",
+            "finishDate": "2007-06-30",
+            "challenges": [
+              {
+                "description": "Analysis of batch processes for a Banking client to find bottlenecks in Sybase and Unix."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Cronos Iberica"
+        },
+        "roles": [
+          {
+            "name": "System Administrator",
+            "startDate": "2006-08-01",
+            "finishDate": "2007-03-31",
+            "challenges": [
+              {
+                "description": "Administrated UNIX and ORACLE products and incidence resolution in public adminitration of Madrid."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Virtual Software"
+        },
+        "roles": [
+          {
+            "name": "Junior System Administrator",
+            "startDate": "2006-03-01",
+            "finishDate": "2006-06-30",
+            "challenges": [
+              {
+                "description": "Administrated a farm of Linux servers for a development team based on Java. Developed solutions to receive and send sms through terminals and also FAX.Installed the VPN for the developers to allow them to work from home."
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "knowledge": {
+    "languages": [
+      {
+        "name": "EN",
+        "fullName": "Inglés",
+        "level": "Full professional proficiency"
+      },
+      {
+        "name": "ES",
+        "fullName": "Español",
+        "level": "Native or bilingual proficiency"
+      },
+      {
+        "name": "IT",
+        "fullName": "Italiano",
+        "level": "Limited working proficiency"
+      }
+    ],
+    "hardSkills": [
+      {
+        "skill": {
+          "name": "Apache",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "CodeIgniter",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Django",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Drupal",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "JavaScript",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Linux",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "MySQL",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "PHP",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "PostgreSQL",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Python",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Ruby",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Ruby on Rails",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Unix",
+          "type": "technology"
+        }
+      }
+    ],
+    "studies": [
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "MST121 Using Mathematics",
+        "startDate": "2011-01-01",
+        "institution": {
+          "name": "The Open University"
+        },
+        "finishDate": "2012-01-01"
+      }
+    ],
+    "softSkills": [
+      {
+        "skill": {
+          "name": "Continuous learning",
+          "type": "practice"
+        }
+      },
+      {
+        "skill": {
+          "name": "Creative thinking",
+          "type": "practice"
+        }
+      },
+      {
+        "skill": {
+          "name": "Proactivity",
+          "type": "practice"
+        }
+      }
+    ]
+  },
+  "careerPreferences": {
+    "contact": {
+      "publicProfiles": [
+        {
+          "URL": "https://www.linkedin.com/in/albertoliva/",
+          "type": "linkedin"
+        },
+        {
+          "URL": "https://github.com/aiw3ndil",
+          "type": "github"
+        }
+      ]
+    },
+    "preferences": {
+      "preferredRoles": [
+        "Backend Developer"
+      ]
+    },
+    "status": "searchingActively",
+    "requirements": {
+      "contractTypes": [
+        "permanent",
+        "freelance"
+      ]
+    }
+  },
+  "manfredSpecificData": {
+    "mainStackTechs": [
+      {
+        "name": "Linux",
+        "type": "technology"
+      },
+      {
+        "name": "PostgreSQL",
+        "type": "technology"
+      },
+      {
+        "name": "Ruby on Rails",
+        "type": "technology"
+      }
+    ]
+  }
+}
